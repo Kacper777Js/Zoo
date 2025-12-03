@@ -1,0 +1,2 @@
+Elephant;kacper;4;23.000000
+Monkey;kacper;6;43.000000
